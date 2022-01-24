@@ -13,7 +13,7 @@ Feel free to use any additional libraries you think is needed.
 ## Project layout
 
 - The app was bootstrapped with [create-react-app](https://create-react-app.dev/).
-- The api in a simple GraphQL server, with the minumum to have it running.
+- The api is a simple GraphQL server, with the minimum to have it running.
 
 Have a look in the code to see the missing pieces.
 
