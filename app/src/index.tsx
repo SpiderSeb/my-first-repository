@@ -1,5 +1,7 @@
 import gql from 'graphql-tag'
+import React from 'react'
 import ReactDOM from 'react-dom'
+import App from './App'
 
 /**
  * The type `AvatarExampleFragment` in automatically generated.
@@ -25,4 +27,4 @@ if (mountingPoint == null) {
   )
 }
 
-ReactDOM.render(<>{/** @Todo */}</>, mountingPoint)
+ReactDOM.render(<App />, mountingPoint)
