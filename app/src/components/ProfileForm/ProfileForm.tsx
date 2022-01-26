@@ -10,7 +10,7 @@ import {
 import Avatar from '../Avatar'
 import Field from '../Field'
 import Select from '../Select'
-import classes from './style.module.css'
+import classes from './ProfileForm.module.css'
 
 interface ProfileFormProps {
   id: string

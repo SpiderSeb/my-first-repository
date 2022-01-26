@@ -1,5 +1,5 @@
 import React from 'react'
-import classes from './style.module.css'
+import classes from './Field.module.css'
 
 interface FieldProps {
   editable: boolean

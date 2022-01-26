@@ -1,6 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-import classes from './style.module.css'
+import classes from './NavBar.module.css'
 
 export const linkClassName = ({ isActive }: { isActive: boolean }): string =>
   isActive ? `${classes.link} ${classes['active']}` : classes.link
